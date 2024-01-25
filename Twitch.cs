@@ -9,7 +9,7 @@ public class Twitch : Mod
     public override string Author => "Nylux";
     public override string Name => "Twitch Integration";
     public override string Description => "Let Twitch Chat run commands in Stoneshard !";
-    public override string Version => "1.0.0";
+    public override string Version => "0.1.0";
 
     public override void PatchMod()
     {
